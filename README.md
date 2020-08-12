@@ -8,7 +8,7 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 ## Clases y ayudantías 
 | Tipo  | Tópico                             | Fecha        | Link |
 | :-:   | -                                  | :-:          | :-:  |
-| Clase | Introducción                       | martes 11/08 |  |
+| Clase | Introducción                       | martes 11/08 | [Video](https://youtu.be/WIzBjujk4to) |
 | Clase | Representaciones numéricas parte 1 | jueves 13/08 |  |
 
 ## Calendario tareas
