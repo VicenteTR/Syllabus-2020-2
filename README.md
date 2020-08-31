@@ -14,6 +14,7 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 | Clase | Representaciones Numéricas Parte 2: Números Racionales | jueves 20/08 | [Slides](../../tree/master/Clases/03%20-%20Representaciones%20Numéricas%20Parte%202%20-%20Números%20Racionales.pdf) | [Video](https://youtu.be/YzCOso9_Ey4) | [Apuntes](../../tree/master/Apuntes/Capítulo%201/02%20-%20Representaciones%20Numéricas%20Parte%202%20-%20Números%20Racionales.pdf) |
 | Ayudantía | Representaciones Numéricas | lunes 24/08 | [Slides](../../tree/master/Ayudantías/01%20-%20Representaciones%20Numéricas%20(Slides).pdf) | [Video](https://youtu.be/4NJJ4Y02Aiw) | [Solución](../../tree/master/Ayudantías/01%20-%20Representaciones%20Numéricas%20(Solución).pdf) |
 | Clase | Operaciones Aritméticas y Lógicas Parte 1: Shannon y Boole | martes 25/08 | [Slides](../../tree/master/Clases/04%20-%20Operaciones%20Aritméticas%20y%20Lógicas%20Parte%201%20-%20Shannon%20y%20Boole.pdf) | [Video](https://youtu.be/HYI75aTMi44) | [Apuntes](../../tree/master/Apuntes/Capítulo%201/03%20-%20Operaciones%20Aritmeticas%20y%20Logicas.pdf) |
+| Clase | Operaciones Aritméticas y Lógicas Parte 2: Unidad Aritmética Lógica | jueves 27/08 | [Slides](../../blob/master/Clases/05%20-%20Operaciones%20Aritméticas%20y%20Lógicas%20Parte%202%20-%20Unidad%20Aritmética%20Lógica.pdf) | [Video](https://youtu.be/O0E9m6toZFE) | [Apuntes](../../tree/master/Apuntes/Capítulo%201/03%20-%20Operaciones%20Aritmeticas%20y%20Logicas.pdf) |
 
 ## Calendario tareas
 | Evaluación | Publicación | Entrega |
