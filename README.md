@@ -33,9 +33,4 @@ Salvo correos urgentes al profesor, solo se responderán issues y correos de lun
 
 ## Otros Semestres
 
-* [Syllabus 2017-2](https://github.com/IIC2343/Syllabus-2017-2)
-* [Syllabus 2018-1](https://github.com/IIC2343/Syllabus-2018-1)
-* [Syllabus 2018-2](https://github.com/IIC2343/Syllabus-2018-2)
-* [Syllabus 2019-1](https://github.com/IIC2343/Syllabus-2019-1)
-* [Syllabus 2019-2](https://github.com/IIC2343/Syllabus-2019-2)
-* [Syllabus 2020-1](https://github.com/IIC2343/Syllabus-2020-1)
+Pueden encontrar el material de otros semestres en [este link](https://github.com/IIC2343/Syllabus-anteriores).
