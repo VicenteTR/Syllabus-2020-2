@@ -16,6 +16,7 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 | Clase | Operaciones Aritméticas y Lógicas Parte 1: Shannon y Boole | martes 25/08 | [Slides](../../tree/master/Clases/04%20-%20Operaciones%20Aritméticas%20y%20Lógicas%20Parte%201%20-%20Shannon%20y%20Boole.pdf) | [Video](https://youtu.be/HYI75aTMi44) | [Apuntes](../../tree/master/Apuntes/Capítulo%201/03%20-%20Operaciones%20Aritmeticas%20y%20Logicas.pdf) |
 | Clase | Operaciones Aritméticas y Lógicas Parte 2: Unidad Aritmética Lógica | jueves 27/08 | [Slides](../../blob/master/Clases/05%20-%20Operaciones%20Aritméticas%20y%20Lógicas%20Parte%202%20-%20Unidad%20Aritmética%20Lógica.pdf) | [Video](https://youtu.be/O0E9m6toZFE) | [Apuntes](../../tree/master/Apuntes/Capítulo%201/03%20-%20Operaciones%20Aritmeticas%20y%20Logicas.pdf) |
 | Ayudantía | Operaciones Aritméticas y Lógicas | lunes 31/08 | [Slides](../../blob/master/Ayudantías/02-%20Lógica%20Digital%20y%20Circuitos%20(Slides).pdf) | [Video](https://youtu.be/JsY7gE-Mizs) | [Solución](../../blob/master/Ayudantías/02%20-%20Lógica%20Digital%20y%20Circuitos%20(Solución).pdf) |
+| Clase | Almacenamiento de Datos | martes 01/09 | [Slides](../../blob/master/Clases/06%20-%20Almacenamiento%20de%20Datos.pdf) | [Video](https://youtu.be/fB8K8o6Izbk) | [Apuntes](../../blob/master/Apuntes/Capítulo%201/04%20-%20Almacenamiento%20de%20datos.pdf) |
 
 ## Calendario tareas
 | Evaluación | Publicación | Entrega |
