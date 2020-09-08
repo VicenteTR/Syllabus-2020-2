@@ -19,6 +19,7 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 | Clase | Almacenamiento de Datos | martes 01/09 | [Slides](../../blob/master/Clases/06%20-%20Almacenamiento%20de%20Datos.pdf) | [Video](https://youtu.be/fB8K8o6Izbk) | [Apuntes](../../blob/master/Apuntes/Capítulo%201/04%20-%20Almacenamiento%20de%20datos.pdf) |
 | Clase | Programabilidad Parte 1: Elementos Básicos | jueves 03/09 | [Slides](../../blob/master/Clases/07%20-%20Programabilidad%20Parte%201%20-%20Elementos%20Básicos.pdf) | [Video](https://youtu.be/XLywwEjZOT4) | [Apuntes](../../blob/master/Apuntes/Capítulo%202/4%20-%20Programabilidad.pdf) |
 | Ayudantía | Almacenamiento y Programabilidad | lunes 07/09 | [Slides](../../blob/master/Ayudantías/03%20-%20Almacenamiento%20y%20Programabilidad%20(Slides).pdf) | [Video](https://youtu.be/NOxJwUUbKYs) | [Solución](../../blob/master/Ayudantías/03%20-%20Almacenamiento%20y%20Programabilidad%20(Solución).pdf) |
+| Clase | Programabilidad Parte 2: Computador Básico | martes 08/09 | [Slides](../../blob/master/Clases/08%20-%20Programabilidad%20Parte%202%20-%20Computador%20Básico.pdf) | Video | [Apuntes](../../blob/master/Apuntes/Capítulo%202/4%20-%20Programabilidad.pdf) |
 
 ## Calendario tareas
 | Evaluación | Publicación | Entrega | Otros |
