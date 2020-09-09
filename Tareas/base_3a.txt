@@ -1,0 +1,16 @@
+DATA:
+	n1 	0
+	n2 	2
+	N 	3
+	M 	0,1,0,1,0,1,0,1,0
+	res 0
+
+	#import-data
+
+CODE:
+	encontrar_distancia:
+	
+	#import-code
+
+	jmp end
+end:

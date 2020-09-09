@@ -1,0 +1,15 @@
+DATA:
+	; datos de ejemplo
+	res 	0
+	N	11
+	arr 	1, 2, 3, 2, 4, 5, 1, 8, 8, 7, 3
+
+	#import-data
+
+DATA:
+	encontrar_mediana:
+	
+	#import-code
+
+	jmp end
+end:
