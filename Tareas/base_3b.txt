@@ -6,7 +6,7 @@ DATA:
 
 	#import-data
 
-DATA:
+CODE:
 	encontrar_mediana:
 	
 	#import-code
