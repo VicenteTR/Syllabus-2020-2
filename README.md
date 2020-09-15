@@ -21,6 +21,8 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 | Ayudantía | Almacenamiento y Programabilidad | lunes 07/09 | [Slides](../../blob/master/Ayudantías/03%20-%20Almacenamiento%20y%20Programabilidad%20(Slides).pdf) | [Video](https://youtu.be/NOxJwUUbKYs) | [Solución](../../blob/master/Ayudantías/03%20-%20Almacenamiento%20y%20Programabilidad%20(Solución).pdf) |
 | Clase | Programabilidad Parte 2: Computador Básico | martes 08/09 | [Slides](../../blob/master/Clases/08%20-%20Programabilidad%20Parte%202%20-%20Computador%20Básico.pdf) | [Video](https://youtu.be/ZbTuFKO14SA) | [Apuntes](../../blob/master/Apuntes/Capítulo%202/4%20-%20Programabilidad.pdf) |
 | Clase | Saltos y Subrutinas | jueves 10/09 | [Slides](../../blob/master/Clases/09%20-%20Saltos%20y%20Subrutinas.pdf) | [Video](https://youtu.be/gWRmJ3GLp5I) | [Apuntes](../../blob/master/Apuntes/Capítulo%202/5%20-%20Saltos%20y%20Subrutinas.pdf) |
+| Ayudantía | Assembly y Saltos + Subrutinas | lunes 14/09 | [Slides](../../blob/master/Ayudantías/04%20-%20Assembly%20y%20Saltos%20%2B%20Subrutinas%20(Slides).pdf) | [Video](https://youtu.be/G-V61x1DqXI) | [Solución](../../blob/master/Ayudantías/04%20-%20Assembly%20y%20Saltos%20%2B%20Subrutinas%20(Solución).pdf) |
+
 
 ## Calendario tareas
 | Evaluación | Publicación | Entrega | Otros |
@@ -31,7 +33,7 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 |Tarea 4     | 16/11       | 04/12   ||
 
 ## Entregas atrasadas
-Se consideran 4 dias de gracia durante el semestre, que podrán ser utilizados en el momento que se prefiera. Una vez usados estos días, cualquier entrega atrasada será calificada con nota 1.0.
+Con el fin de evitar problemas dados por situaciones imprevistas, se considerarán 5 días totales de gracia durante el semestre, que podrán ser utilizados en el momento que se prefiera. Estos días comenzarán a contar desde la fecha de entrega oficial de cada evaluación y consideran días laborales, feriados y vacaciones. Una vez usados estos días, cualquier entrega atrasada será calificada con nota 1.0.
 
 ## Contacto
 Las dudas sobre los contenidos del curso o aspectos administrativos de interés general deben realizarse exclusivamente a través de [issues](../../issues). Cualquier comunicación personal relativa a aspectos administrativos del curso (**no dudas de materia**) debe dirigirse al mail [iic2343@ing.puc.cl](mailto:iic2343@ing.puc.cl). Situaciones urgentes, de mayor importancia o personales que requieran de alta privacidad deben realizarse directamente al mail del profesor ([halobel@ing.puc.cl](mailto:halobel@ing.puc.cl)).
