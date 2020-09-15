@@ -2,7 +2,7 @@
 name: "[Emulador] Bug report"
 about: Si encuentras un bug en el emulador, háznoslo saber!
 title: Bug Emulador | Un título descriptivo irá aquí
-labels: emulabug
+labels: emulador
 assignees: jmwielandt
 
 ---
