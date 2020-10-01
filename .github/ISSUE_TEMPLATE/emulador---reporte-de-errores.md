@@ -2,7 +2,7 @@
 name: Emulador | Reporte de errores
 about: Si encuentras un bug en el emulador, ¡háznoslo saber!
 title: Bug Emulador | Un título descriptivo irá aquí
-labels: emulador, bug
+labels: bug, emulador
 assignees: jmwielandt
 
 ---
