@@ -25,6 +25,8 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 | Clase | Aclaraciones, dudas y consultas capítulos 1 y 2 | martes 15/09 | [Slides](../../blob/master/Clases/10%20-%20Dudas%20y%20consultas%20capítulos%201%20y%202.pdf) | [Video](https://youtu.be/9JSaW63CTtg) | - |
 | Clase | Aclaraciones, dudas y consultas capítulos 1 y 2 | jueves 17/09 | - | [Video](https://youtu.be/_7iy3r7Z-OA) | - |
 | Clase | Arquitecturas de Computadores | martes 28/09 | [Slides](../../blob/master/Clases/11%20-%20Arquitecturas%20de%20Computadores.pdf) | [Video](https://youtu.be/eTceIjq3jmc) | [Apuntes](../../blob/master/Apuntes/Capítulo%203/6%20-%20Arquitecturas%20de%20Computadores.pdf) |
+| Clase | Arquitectura x86 - Elementos Básicos | jueves 01/10 | [Slides](../../blob/master/Clases/12%20-%20Arquitectura%20x86%20-%20Elementos%20Básicos.pdf) | Video | [Apuntes](../../blob/master/Apuntes/Capítulo%203/7%20-%20Arquitectura%20x86.pdf) |
+
 ## Calendario tareas
 | Evaluación | Publicación | Entrega | Otros |
 | :-:        | :-:         | :-:     | :-:       |
