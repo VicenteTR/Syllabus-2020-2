@@ -27,7 +27,7 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 | Clase | Arquitecturas de Computadores | martes 28/09 | [Slides](../../blob/master/Clases/11%20-%20Arquitecturas%20de%20Computadores.pdf) | [Video](https://youtu.be/eTceIjq3jmc) | [Apuntes](../../blob/master/Apuntes/Capítulo%203/6%20-%20Arquitecturas%20de%20Computadores.pdf) |
 | Clase | Arquitectura x86 - Elementos Básicos | jueves 01/10 | [Slides](../../blob/master/Clases/12%20-%20Arquitectura%20x86%20-%20Elementos%20Básicos.pdf) | [Video](https://youtu.be/nOQsHGSDJj4) | [Apuntes](../../blob/master/Apuntes/Capítulo%203/7%20-%20Arquitectura%20x86.pdf) |
 | Ayudantía | Arquitecturas de Computadores | lunes 05/10 | [Slides](../../blob/master/Ayudantías/05%20-%20Arquitectura%20de%20Computadores%20(Slides).pdf) | [Video](https://youtu.be/XmaFsMHCs34) | [Solución](../../blob/master/Ayudantías/05%20-%20Arquitectura%20de%20Computadores%20(Solución).pdf) |
-| Clase | Arquitectura x86 - Convenciones de llamada | martes 06/10 | [Slides](../../blob/master/Clases/13%20-%20Arquitectura%20x86%20-%20Convenciones%20de%20llamada.pdf) | Video | [Apuntes](../../blob/master/Apuntes/Capítulo%203/7%20-%20Arquitectura%20x86.pdf) |
+| Clase | Arquitectura x86 - Convenciones de llamada | martes 06/10 | [Slides](../../blob/master/Clases/13%20-%20Arquitectura%20x86%20-%20Convenciones%20de%20llamada.pdf) | [Video](https://youtu.be/A-bYwqlq5JA) | [Apuntes](../../blob/master/Apuntes/Capítulo%203/7%20-%20Arquitectura%20x86.pdf) |
 
 ## Calendario tareas
 | Evaluación | Publicación | Entrega | Otros |
