@@ -31,7 +31,7 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 | Clase | Comunicación de CPU y Memoria con I/O: Definiciones | jueves 08/10 | [Slides](../../blob/master/Clases/14%20-%20Comunicación%20de%20CPU%20y%20Memoria%20con%20IO%20-%20Definiciones.pdf) | [Video](https://youtu.be/8FR_MauQHJo) | [Apuntes](../../blob/master/Apuntes/Capítulo%204/8%20-%20Comunicacion%20de%20CPU%20y%20Memoria%20con%20IO.pdf) |
 | Clase | Comunicación de CPU y Memoria con I/O: Comunicación e Interacción| martes 13/10 | [Slides](../../blob/master/Clases/15%20-%20Comunicación%20de%20CPU%20y%20Memoria%20con%20IO%20-%20Comunicación%20e%20Interacción.pdf) | [Video](https://youtu.be/TPWi4L7qqM4) | [Apuntes](../../blob/master/Apuntes/Capítulo%204/8%20-%20Comunicacion%20de%20CPU%20y%20Memoria%20con%20IO.pdf) |
 | Clase | Comunicación de CPU y Memoria con I/O: Comunicación e Interacción | martes 15/10 | [Slides](../../blob/master/Clases/15%20-%20Comunicación%20de%20CPU%20y%20Memoria%20con%20IO%20-%20Comunicación%20e%20Interacción.pdf) | [Video](https://youtu.be/MxLBow1J3QQ) | [Apuntes](../../blob/master/Apuntes/Capítulo%204/8%20-%20Comunicacion%20de%20CPU%20y%20Memoria%20con%20IO.pdf) |
-| Ayudantía | Dispositivos I/O | lunes 20/10 | [Slides](../../blob/master/Ayudantías/06%20-%20Dispositivos%20I-O%20(Slides).pdf) | [Video](https://youtu.be/sqjBI2141nM) | [Solución](../../blob/master/Ayudantías/06%20-%20Dispositivos%20I-O%20(Solución).pdf) |
+| Ayudantía | Dispositivos I/O | lunes 19/10 | [Slides](../../blob/master/Ayudantías/06%20-%20Dispositivos%20I-O%20(Slides).pdf) | [Video](https://youtu.be/sqjBI2141nM) | [Solución](../../blob/master/Ayudantías/06%20-%20Dispositivos%20I-O%20(Solución).pdf) |
 
 
 ## Calendario tareas
