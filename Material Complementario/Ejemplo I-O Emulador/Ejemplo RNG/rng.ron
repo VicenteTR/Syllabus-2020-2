@@ -5,7 +5,11 @@
         9: "puerto_num_generado",   // sólo in
         10: "puerto_semilla",       // sólo out
         11: "puerto_comando",       // sólo out
-    }
+    },
+    memory_mapped: [
+        30, 31, 32, 33, 34, 35, 36,     // buffer interno
+        37,                             // n° de números a generar
+    ]
 )
 
 // Una breve descripción del funcionamiento de mi I/O
@@ -16,8 +20,10 @@
 //  2 - con semilla seteada, esperando
 //  3 - generando número
 //  4 - reiniciáandome
+//  5 - 
 // 
 // Comandos:
 //  0 - setear semilla
 //  1 - generar número aleatorio
 //  2 - resetear
+//  3 - generar varios

@@ -1,0 +1,11 @@
+(
+    name: "Sir Dummy I'Odevice",
+    memory_mapped: [
+        // los que declaren aquí son los que buscará el emulador
+        30, 31, 32,
+    ],
+    ports: {
+        19: "foo",  // sólo lectura
+        20: "bar",  // sólo escritura
+    }
+)
