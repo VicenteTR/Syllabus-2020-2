@@ -78,7 +78,7 @@ class Rng:
             self.agregar_buffer("numero_generado", randint(0, 255))
             self.agregar_buffer("estado", 2)
         elif 2:
-            self.estado = 3
+            self.estado = 4
             self.agregar_buffer("seed", None)
             self.agregar_buffer("numero_generado", 0)
             self.agregar_buffer("estado", 0)
