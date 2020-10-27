@@ -34,6 +34,7 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 | Ayudantía | Dispositivos I/O | lunes 19/10 | [Slides](../../blob/master/Ayudantías/06%20-%20Dispositivos%20I-O%20(Slides).pdf) | [Video](https://youtu.be/sqjBI2141nM) | [Solución](../../blob/master/Ayudantías/06%20-%20Dispositivos%20I-O%20(Solución).pdf) |
 | Clase | Comunicación de CPU y Memoria con I/O: Comunicación e Interacción | martes 20/10 | [Slides](../../blob/master/Clases/15%20-%20Comunicación%20de%20CPU%20y%20Memoria%20con%20IO%20-%20Comunicación%20e%20Interacción.pdf) | [Video](https://youtu.be/XaZ-H6uNxaU) | [Apuntes](../../blob/master/Apuntes/Capítulo%204/8%20-%20Comunicacion%20de%20CPU%20y%20Memoria%20con%20IO.pdf) |
 | Clase | Aclaraciones, dudas y consultas capítulos 3 y 4 | jueves 22/10 | - | [Video](https://youtu.be/J7b_ehfyDtw) | - |
+| Clase | Jerarquía de Memoria y Memoria Caché | martes 27/10 | [Slides](../../blob/master/Clases/16%20-%20Jerarquía%20de%20Memoria%20y%20Memoria%20Caché.pdf) | Video | Apuntes |
 
 
 ## Calendario tareas
