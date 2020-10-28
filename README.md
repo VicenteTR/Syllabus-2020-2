@@ -42,7 +42,7 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 | :-:        | :-:         | :-:     | :-:       |
 |Tarea 1     | 24/08       | 17/09   |[Enunciado](../../blob/master/Tareas/T1/T1.pdf) - [Entrega](https://forms.gle/xDJr4ubbCa7YDpGU8)|
 |Tarea 2     | 28/09       | 23/10   |[Enunciado](../../blob/master/Tareas/T2/T2.pdf) - [Entrega](https://forms.gle/U9QPSiBH6qL1iJe37)|
-|Tarea 3     | 26/10       | 13/11   ||
+|Tarea 3     | 28/10       | 15/11   ||
 |Tarea 4     | 16/11       | 04/12   ||
 
 ## Entregas atrasadas
