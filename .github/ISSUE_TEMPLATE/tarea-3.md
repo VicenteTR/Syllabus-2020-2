@@ -1,7 +1,7 @@
 ---
 name: Tarea 3
-about: "¿Dudas con la tarea 3? ¡Este es tu lugar!"
-title: "T3 | Los títulos descriptivos deben ser \U0001F47D"
+about: "¿Dudas con la tarea 3? ¡Este es tu lugar! \U0001F47D"
+title: "T3 | El título descriptivo debe ser \U0001F47D"
 labels: Tarea 3
 assignees: ''
 
