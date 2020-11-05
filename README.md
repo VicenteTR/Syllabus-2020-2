@@ -44,7 +44,7 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 ## Calendario tareas
 | Evaluación | Publicación | Entrega | Otros |
 | :-:        | :-:         | :-:     | :-:       |
-|Tarea 1     | 24/08       | 17/09   |[Enunciado](../../blob/master/Tareas/T1/T1.pdf) - [Entrega](https://forms.gle/xDJr4ubbCa7YDpGU8)|
+|Tarea 1     | 24/08       | 17/09   |[Enunciado](../../blob/master/Tareas/T1/T1.pdf) - [Entrega](https://forms.gle/xDJr4ubbCa7YDpGU8) - [Recorrección](https://forms.gle/Kq8p8CRFYRzkVUwR9)|
 |Tarea 2     | 28/09       | 27/10   |[Enunciado](../../blob/master/Tareas/T2/T2.pdf) - [Entrega](https://forms.gle/U9QPSiBH6qL1iJe37)|
 |Tarea 3     | 28/10       | 15/11   |[Enunciado](../../blob/master/Tareas/T3/T3.pdf) - [Entrega](https://forms.gle/z5g7b8migun4vZP39)|
 |Tarea 4     | 16/11       | 04/12   ||
