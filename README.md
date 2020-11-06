@@ -38,7 +38,7 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 | Clase | Jerarquía de Memoria y Memoria Caché | jueves 29/10 | [Slides](../../blob/master/Clases/16%20-%20Jerarquía%20de%20Memoria%20y%20Memoria%20Caché.pdf) | [Video](https://youtu.be/vSkSZCn77_g) | [Apuntes](../../blob/master/Apuntes/Capítulo%205/9%20-%20Jerarquía%20de%20Memoria%20y%20Memoria%20Caché.pdf) |
 | Ayudantía | Jerarquía de Memoria y Memoria Caché | lunes 02/11 | [Slides](../../blob/master/Ayudantías/07%20-%20Jerarquía%20de%20Memoria%20y%20Memoria%20Caché%20(Slides).pdf) | [Video](https://youtu.be/hkyjpx06oo4) | [Solución](../../blob/master/Ayudantías/07%20-%20Jerarquía%20de%20Memoria%20y%20Memoria%20Caché%20(Solución).pdf) |
 | Clase | Multiprogramación | martes 03/11 | [Slides](../../blob/master/Clases/17%20-%20Multiprogramación.pdf) | [Video](https://youtu.be/aQmzsBlTm5A) | [Apuntes](../../blob/master/Apuntes/Capítulo%205/10%20-%20Multiprogramacion.pdf) |
-| Clase | Multiprogramación | martes 05/11 | [Slides](../../blob/master/Clases/17%20-%20Multiprogramación.pdf) | Video] | [Apuntes](../../blob/master/Apuntes/Capítulo%205/10%20-%20Multiprogramacion.pdf) |
+| Clase | Multiprogramación | martes 05/11 | [Slides](../../blob/master/Clases/17%20-%20Multiprogramación.pdf) | [Video](https://youtu.be/hv9ngWMmbUw) | [Apuntes](../../blob/master/Apuntes/Capítulo%205/10%20-%20Multiprogramacion.pdf) |
 
 
 ## Calendario tareas
