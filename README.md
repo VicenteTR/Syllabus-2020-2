@@ -41,6 +41,7 @@ Las evaluaciones serán efectuadas por medio de 4 tareas, que combinarán aspect
 | Clase | Multiprogramación | jueves 05/11 | [Slides](../../blob/master/Clases/17%20-%20Multiprogramación.pdf) | [Video](https://youtu.be/hv9ngWMmbUw) | [Apuntes](../../blob/master/Apuntes/Capítulo%205/10%20-%20Multiprogramacion.pdf) |
 | Ayudantía | Multiprogramación | lunes 09/11 | [Slides](../../blob/master/Ayudantías/08%20-%20Multiprogramación%20(Slides).pdf) | [Video](https://youtu.be/yLovUqHJqcM) | [Solución](../../blob/master/Ayudantías/08%20-%20Multiprogramación%20(Solución).pdf) |
 | Clase | Multiprogramación | martes 10/11 | [Slides](../../blob/master/Clases/17%20-%20Multiprogramación.pdf) | [Video](https://youtu.be/k2H0uGy2eiE) | [Apuntes](../../blob/master/Apuntes/Capítulo%205/10%20-%20Multiprogramacion.pdf) |
+| Clase | Aclaraciones, dudas y consultas capítulo 5 | jueves 12/11 | - | [Video](https://youtu.be/qOwmx3p18oY) | - |
 
 
 ## Calendario tareas
